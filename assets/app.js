@@ -12,4 +12,4 @@ import './styles/app.css';
 import './bootstrap';
 
 // compile custom script file(s)
-import './scripts/script1.js';
+// import './scripts/script1.js';
